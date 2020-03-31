@@ -1,1 +1,2 @@
-file3 diff cmd testing
+multiple testing
+ diff cmd testing
